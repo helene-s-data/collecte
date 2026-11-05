@@ -1,0 +1,16 @@
+# Environnements virtuels
+.venv/
+mon_env/
+env/
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Autres
+.env
+data/
