@@ -1,1 +1,1 @@
-Calcul de la moyenne
+moyenne = somme / nombre
